@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -57,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
