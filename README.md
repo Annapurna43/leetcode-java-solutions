@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
