@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
