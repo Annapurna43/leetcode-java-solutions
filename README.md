@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
