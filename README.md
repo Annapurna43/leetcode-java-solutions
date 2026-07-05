@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0022-generate-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0784-letter-case-permutation](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0784-letter-case-permutation) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0784-letter-case-permutation) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
