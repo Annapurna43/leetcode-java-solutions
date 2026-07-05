@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
