@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
+| [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
