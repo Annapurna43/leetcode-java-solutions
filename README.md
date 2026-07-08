@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 ## Combinatorics
 |  |
 | ------- |
