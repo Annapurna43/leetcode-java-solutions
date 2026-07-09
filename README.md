@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
