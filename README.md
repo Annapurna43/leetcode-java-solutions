@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
