@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0784-letter-case-permutation](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0784-letter-case-permutation) |
+| [1143-longest-common-subsequence](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
