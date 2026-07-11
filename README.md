@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0516-longest-palindromic-subsequence) |
