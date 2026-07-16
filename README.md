@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0213-house-robber-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
