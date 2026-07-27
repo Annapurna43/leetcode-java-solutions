@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 ## Combinatorics
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
