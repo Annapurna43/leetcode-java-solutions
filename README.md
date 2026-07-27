@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 ## Combinatorics
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
 ## Prefix Sum
 |  |
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
