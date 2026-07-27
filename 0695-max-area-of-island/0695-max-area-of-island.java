@@ -4,9 +4,13 @@ class Solution {
         int ans = 0;
         for(int i = 0; i<grid.length; i++){
             for(int j =0; j<grid[0].length; j++){
-                temp = 0;
-                dfs(grid,i,j);
-                ans = Math.max(ans,temp);
+                if(grid[i][j]==1){
+                    temp = 0;
+                    dfs(grid,i,j);
+                    ans = Math.max(ans,temp);
+
+                }
+                
             }
         }
         return ans;
