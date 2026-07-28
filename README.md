@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
 | [1470-shuffle-the-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
