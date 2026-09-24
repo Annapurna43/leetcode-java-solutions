@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0695-max-area-of-island) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
