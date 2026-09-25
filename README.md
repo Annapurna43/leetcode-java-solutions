@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0784-letter-case-permutation](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0183-customers-who-never-order) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Annapurna43/leetcode-java-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
